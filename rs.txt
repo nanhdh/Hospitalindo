@@ -1,0 +1,43 @@
+[
+  {
+    "name": "RS UMUM DAERAH  DR. ZAINOEL ABIDIN",
+    "address": "JL. TGK DAUD BEUREUEH, NO. 108 B. ACEH",
+    "region": "KOTA BANDA ACEH, ACEH",
+    "phone": "(0651) 34565",
+    "province": "Aceh"
+    "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan untuk BPS"
+  },
+  {
+    "name": "RS UMUM DAERAH CUT MEUTIA KAB. ACEH UTARA",
+    "address": "JL. BANDA ACEH-MEDAN KM.6 BUKET RATA LHOKSEUMAWE",
+    "region": "KOTA LHOKSEUMAWE, ACEH",
+    "phone": "(0645) 46334",
+    "province": "Aceh"
+    "Description": "Rumah sakit jantung no 1 di Indonesia yang memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+  },
+  {
+    "name": "RSUP SANGLAH",
+    "address": "JL. DIPONEGORO DENPASAR BALI",
+    "region": "KOTA DENPASAR, BALI",
+    "phone": "(0361) 227912",
+    "province": "Bali" 
+    "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+v
+  },
+  {
+    "name": "RS UMUM DAERAH KAB. BULELENG",
+    "address": "JL. NGURAH RAI 30 SINGARAJA",
+    "region": "BULELENG, BALI",
+    "phone": "(0362) 22046",
+    "province": "Bali"
+     "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+  },
+  {
+    "name": "RS UMUM DAERAH SANJIWANI GIANYAR",
+    "address": "JL. CIUNG WENARA NO.2 GIANYAR",
+    "region": "GIANYAR, BALI",
+    "phone": "(0361) 943049",
+    "province": "Bali"
+    "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+  }
+]
